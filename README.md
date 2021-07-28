@@ -1,4 +1,4 @@
-# Welcome to my Github, I'm Julian 👋
+# Welcome to my Github 👋
 
 <br />
 
