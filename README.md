@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm a Full-Stack Engineer | Electronics Engineer Student ⚡
+## I'm a Full-Stack Engineer & Electronics Engineer Student ⚡
 
 <br />
 
