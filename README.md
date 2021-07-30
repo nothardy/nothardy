@@ -8,7 +8,7 @@
 
 <br />
 
-<img width="100%" border-radius="5px" src="./win.jpeg" alt="win.jpeg">
+<img width="100%" border-radius="5px" src="./engineer.jpg" alt="win.jpeg">
 
 <br />
 
