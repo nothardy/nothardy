@@ -41,15 +41,15 @@
 
 - Videogame Showcase App
   <br/>
-  <img src="./showcase-gif.gif" alt="here goes landing">
+  <a href="https://github.com/julianpiniel/Videogame-Showcase"> <img src="./showcase-gif.gif" alt="here goes landing" > </a>
 
 - Guitar Pedal Board
   <br/>
-  <img src="./guitarpedal.gif" alt="board pic">
+  <a href="https://github.com/julianpiniel/Guitar-Pedal-Board"><img src="./guitarpedal.gif" alt="board pic"> </a>
 
 - Pong Game
   <br />
-  <img src="./pong-game-1.gif" alt="funny gif">
+  <a href="https://github.com/julianpiniel/Pong-Game"><img src="./pong-game-1.gif" alt="funny gif"> </a>
 
 <br />
 <br/>
@@ -70,4 +70,4 @@ Training is a habit I acquired a few years ago, which involves running and calis
 
 ### More Info
 
-You can reach my <a href="https://www.linkedin.com/in/julian-pinel/" target="_blank" rel="noreferrer" >Linkedin Here</a>
+Visit my <a href="https://www.linkedin.com/in/julian-pinel/" target="_blank" rel="noreferrer" >Linkedin Here</a>
