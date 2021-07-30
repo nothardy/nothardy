@@ -40,14 +40,20 @@
 # Proyects
 
 - Videogame Showcase App
-  <img src="landing page" alt="here goes landing">
+  <br/>
+  <img src="./showcase-gif.gif" alt="here goes landing">
 
 - Guitar Pedal Board
-  <img src="pic of board and arduino" alt="board pic">
+  <br/>
+  <img src="./guitarpedal.gif" alt="board pic">
 
 - Pong Game
-  <img src="gif del pong game" alt="funny gif">
+  <br />
+  <img src="./pong-game-1.gif" alt="funny gif">
 
+<br />
+<br/>
+Will be uploading more later!
 <br />
 <br/>
 
