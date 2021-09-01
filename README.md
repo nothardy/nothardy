@@ -13,6 +13,25 @@
 <br />
 
 <br />
+<br/>
+
+# About Me
+
+### Who am I?
+
+An Electronics Engineer student from Neuquen, Argentina. Some years ago I learnt C at University and loved it! There is when i started looking for other technologies and found the software and web developer world, which totally blew my mind! Now I'm finishing last exams of my carreer and improving in new programming languages and tools every day.
+
+### What am I interested in?
+
+I'm a big fan of music, movies and TV show, playing guitar and piano every time I feel inspired.
+Training is a habit I acquired a few years ago, which involves running and calisthenics. It's important to be in shape both mentally and fisically for a better quality of life.
+
+### More Info
+
+Visit my <a href="https://www.linkedin.com/in/julian-pinel/" target="_blank" rel="noreferrer" >Linkedin Here</a>
+
+<br/>
+<br/>
 
 # My Stack
 
@@ -28,16 +47,24 @@
 
 <ul> 
 <li>Html, Css, Bootstrap, Material Ui</li>
-<li>React Js, React Native, Redux</li>
+<li>React Js, React Native, Redux, Vue Js</li>
 <li>Node Js, Express, Sequelize</li>
 <li>SQL, PostgreSQL</li>
-<li>Git </li>
+<li>Flask, MongoDB</li>
+<li>Git, Scrum </li>
 </ul>
 
 <br />
 <br />
 
 # Proyects
+
+- Wall-et ( eWallet with face recognition ) 
+<br/>
+<a href="https://github.com/julianpiniel/Wall-et">
+<img src="https://user-images.githubusercontent.com/80794759/131602736-7e0f196c-59b2-4e73-b886-f38e45e971e1.png" alt="Wall-et">
+</a>
+
 
 - Videogame Showcase App
   <br/>
@@ -57,17 +84,4 @@ Will be uploading more later!
 <br />
 <br/>
 
-# About Me
 
-### Who am I?
-
-An Electronics Engineer student from Neuquen, Argentina. Some years ago I learnt C at University and loved it! There is when i started looking for other technologies and found the software and web developer world, which totally blew my mind! Now I'm finishing last exams of my carreer and improving in new programming languages and tools every day.
-
-### What am I interested in?
-
-I'm a big fan of music, movies and TV show, playing guitar and piano every time I feel inspired.
-Training is a habit I acquired a few years ago, which involves running and calisthenics. It's important to be in shape both mentally and fisically for a better quality of life.
-
-### More Info
-
-Visit my <a href="https://www.linkedin.com/in/julian-pinel/" target="_blank" rel="noreferrer" >Linkedin Here</a>
