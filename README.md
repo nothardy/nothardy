@@ -51,7 +51,7 @@ Visit my <a href="https://www.linkedin.com/in/julian-pinel/" target="_blank" rel
 <li>SQL, PostgreSQL, MongoDB</li>
 </ul>
 
-### Proficiences
+### Proficiencies
 <ul>
   <li>English C2</li>
   <li>Math & Physics</li>
