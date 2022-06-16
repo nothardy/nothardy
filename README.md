@@ -46,12 +46,9 @@ Visit my <a href="https://www.linkedin.com/in/julian-pinel/" target="_blank" rel
 ### Tools
 
 <ul> 
-<li>Html, Css, Bootstrap, Material Ui</li>
-<li>React Js, React Native, Redux, Vue Js</li>
-<li>Node Js, Express, Sequelize</li>
-<li>SQL, PostgreSQL</li>
-<li>Flask, MongoDB</li>
-<li>Git, Scrum </li>
+<li>React Js, React Native, Redux, Vue Js, Gatsby</li>
+<li>Node Js, Django, Flask</li>
+<li>SQL, PostgreSQL, MongoDB</li>
 </ul>
 
 <br />
@@ -59,7 +56,21 @@ Visit my <a href="https://www.linkedin.com/in/julian-pinel/" target="_blank" rel
 
 # Proyects
 
-- Wall-et ( eWallet with face recognition ) 
+## Enterprise
+- US Airforce web page
+<br/>
+<a href="https://www.airforce.com" target="_blank" rel="noreferrer">
+<img src="https://assets.awwwards.com/awards/sites_of_the_day/2016/04/awwwards-sotd-Airforce-1.jpg" alt="U.S Airforce">
+</a>
+
+- Riot Games web page
+<br/>
+<a href="https://www.riotgames.com" target="_blank" rel="noreferrer">
+<img src="https://preview.redd.it/5qi0lvuhtcc41.png?width=1920&format=png&auto=webp&s=a180030fc14f1e471522667ecb91e8147a90e423" alt="Riot Games">
+</a>
+
+## Own Projects
+- Wall-et ( eWallet with AI face recognition login system ) 
 <br/>
 <a href="https://github.com/julianpiniel/Wall-et">
 <img src="https://user-images.githubusercontent.com/80794759/131602736-7e0f196c-59b2-4e73-b886-f38e45e971e1.png" alt="Wall-et">
@@ -80,7 +91,8 @@ Visit my <a href="https://www.linkedin.com/in/julian-pinel/" target="_blank" rel
 
 <br />
 <br/>
-Will be uploading more later!
+
+
 <br />
 <br/>
 
