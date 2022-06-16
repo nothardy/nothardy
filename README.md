@@ -46,9 +46,17 @@ Visit my <a href="https://www.linkedin.com/in/julian-pinel/" target="_blank" rel
 ### Tools
 
 <ul> 
-<li>React Js, React Native, Redux, Vue Js, Gatsby</li>
-<li>Node Js, Django, Flask</li>
+<li>Frontend: React Js, React Native, Redux, Vue Js, Gatsby</li>
+<li>Backend: Node Js, Django, Flask</li>
 <li>SQL, PostgreSQL, MongoDB</li>
+</ul>
+
+### Proficiences
+<ul>
+  <li>English C2</li>
+  <li>Math & Physics</li>
+  <li>Probability & Statistics</li>
+  <li>Electronics & Telecommunications</li>
 </ul>
 
 <br />
@@ -57,11 +65,13 @@ Visit my <a href="https://www.linkedin.com/in/julian-pinel/" target="_blank" rel
 # Proyects
 
 ## Enterprise
+</br>
 - US Airforce web page
 <br/>
 <a href="https://www.airforce.com" target="_blank" rel="noreferrer">
 <img src="https://assets.awwwards.com/awards/sites_of_the_day/2016/04/awwwards-sotd-Airforce-1.jpg" alt="U.S Airforce">
 </a>
+</br>
 
 - Riot Games web page
 <br/>
