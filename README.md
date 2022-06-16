@@ -66,11 +66,13 @@ Visit my <a href="https://www.linkedin.com/in/julian-pinel/" target="_blank" rel
 
 ## Enterprise
 </br>
+
 - US Airforce web page
 <br/>
 <a href="https://www.airforce.com" target="_blank" rel="noreferrer">
 <img src="https://assets.awwwards.com/awards/sites_of_the_day/2016/04/awwwards-sotd-Airforce-1.jpg" alt="U.S Airforce">
 </a>
+</br>
 </br>
 
 - Riot Games web page
@@ -78,6 +80,8 @@ Visit my <a href="https://www.linkedin.com/in/julian-pinel/" target="_blank" rel
 <a href="https://www.riotgames.com" target="_blank" rel="noreferrer">
 <img src="https://preview.redd.it/5qi0lvuhtcc41.png?width=1920&format=png&auto=webp&s=a180030fc14f1e471522667ecb91e8147a90e423" alt="Riot Games">
 </a>
+</br>
+</br>
 
 ## Own Projects
 - Wall-et ( eWallet with AI face recognition login system ) 
