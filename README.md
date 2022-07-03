@@ -62,7 +62,7 @@ Visit my <a href="https://www.linkedin.com/in/julian-pinel/" target="_blank" rel
 <br />
 <br />
 
-# Proyects
+# Projects
 
 ## Enterprise
 </br>
