@@ -17,8 +17,6 @@
 
 # About Me
 
-### Who am I?
-
 Software Engineer with background in Electronics Engineering. I have experience working with a wide range of technologies including Javascript, TypeScript, React.js, Node.js, Python, HTML, CSS, and SQL. Being fluent in English, I had the opportunity to work side by side with people from all over the world in various industries.
 
 ### More Info
