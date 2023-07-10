@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm a Full-Stack Engineer & Electronics Engineer Student ⚡
+## Software Engineer & Electronics Engineer Student ⚡
 
 <br />
 
@@ -19,12 +19,7 @@
 
 ### Who am I?
 
-An Electronics Engineer student from Neuquen, Argentina. Some years ago I learnt C at University and loved it! There is when i started looking for other technologies and found the software and web developer world, which totally blew my mind! Now I'm finishing last exams of my carreer and improving in new programming languages and tools every day.
-
-### What am I interested in?
-
-I'm a big fan of music, movies and TV show, playing guitar and piano every time I feel inspired.
-Training is a habit I acquired a few years ago, which involves running and calisthenics. It's important to be in shape both mentally and fisically for a better quality of life.
+Software Engineer with background in Electronics Engineering. I have experience working with a wide range of technologies including Javascript, TypeScript, React.js, Node.js, Python, HTML, CSS, and SQL. Being fluent in English, I had the opportunity to work side by side with people from all over the world in various industries.
 
 ### More Info
 
@@ -38,17 +33,18 @@ Visit my <a href="https://www.linkedin.com/in/julian-pinel/" target="_blank" rel
 ### Programming Languages
 
 <ul > 
-<li>JavaScript, TypeScript</li>
+<li>TypeScript, Javascript</li>
 <li>Python</li>
 <li>C  C++</li>
+<li>Matlab</li>
 </ul>
 
 ### Tools
 
 <ul> 
 <li>Frontend: React Js, React Native, Redux, Vue Js, Gatsby</li>
-<li>Backend: Node Js, Django, Flask</li>
-<li>SQL, PostgreSQL, MongoDB</li>
+<li>Backend: Node Js, Django, Flask, Docker</li>
+<li>SQL, PostgreSQL, MongoDB, Redis</li>
 </ul>
 
 ### Proficiencies
