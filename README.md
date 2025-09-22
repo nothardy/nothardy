@@ -2,7 +2,7 @@
 
 <br />
 
-## Software Engineer & Electronics Engineer Student ⚡
+## Software & Electronics Engineer ⚡
 
 <br />
 
@@ -17,7 +17,7 @@
 
 # About Me
 
-Software Engineer with background in Electronics Engineering. I have experience working with a wide range of technologies including Javascript, TypeScript, React.js, Node.js, Python, HTML, CSS, and SQL. Being fluent in English, I had the opportunity to work side by side with people from all over the world in various industries.
+Software Engineer with a background in Electronics Engineering. +5 years delivering solutions using Typescript, Node.js, Python, React.js, SQL and AWS for US and global industries. 
 
 ### More Info
 
@@ -33,15 +33,15 @@ Visit my <a href="https://www.linkedin.com/in/julian-pinel/" target="_blank" rel
 <ul > 
 <li>TypeScript, Javascript</li>
 <li>Python</li>
-<li>C  C++</li>
+<li>C </li>
 <li>Matlab</li>
 </ul>
 
 ### Tools
 
 <ul> 
-<li>Frontend: React Js, React Native, Redux, Vue Js, Gatsby</li>
-<li>Backend: Node Js, Django, Flask, Docker</li>
+<li>Frontend: React Js,Gatsby</li>
+<li>Backend: Node Js, AWS, Django, Flask, Docker</li>
 <li>SQL, PostgreSQL, MongoDB, Redis</li>
 </ul>
 
@@ -61,15 +61,14 @@ Visit my <a href="https://www.linkedin.com/in/julian-pinel/" target="_blank" rel
 ## Enterprise
 </br>
 
-- US Airforce web page
+- Distributed system that controls several bitcoin-mining sites.
 <br/>
-<a href="https://www.airforce.com" target="_blank" rel="noreferrer">
-<img src="https://assets.awwwards.com/awards/sites_of_the_day/2016/04/awwwards-sotd-Airforce-1.jpg" alt="U.S Airforce">
+<img src="https://ml.globenewswire.com/Resource/Download/6a183532-b55f-42d1-ae4d-82b3ba284880" alt="Bitcoin Mining Site">
 </a>
 </br>
 </br>
 
-- Riot Games web page
+- All Riot Games web pages.
 <br/>
 <a href="https://www.riotgames.com" target="_blank" rel="noreferrer">
 <img src="https://preview.redd.it/5qi0lvuhtcc41.png?width=1920&format=png&auto=webp&s=a180030fc14f1e471522667ecb91e8147a90e423" alt="Riot Games">
@@ -77,17 +76,16 @@ Visit my <a href="https://www.linkedin.com/in/julian-pinel/" target="_blank" rel
 </br>
 </br>
 
-## Own Projects
-- Wall-et ( eWallet with AI face recognition login system ) 
+- US Airforce web page.
 <br/>
-<a href="https://github.com/julianpiniel/Wall-et">
-<img src="https://user-images.githubusercontent.com/80794759/131602736-7e0f196c-59b2-4e73-b886-f38e45e971e1.png" alt="Wall-et">
+<a href="https://www.airforce.com" target="_blank" rel="noreferrer">
+<img src="https://assets.awwwards.com/awards/sites_of_the_day/2016/04/awwwards-sotd-Airforce-1.jpg" alt="U.S Airforce">
 </a>
+</br>
+</br>
 
 
-- Videogame Showcase App
-  <br/>
-  <a href="https://github.com/julianpiniel/Videogame-Showcase"> <img src="./showcase-gif.gif" alt="here goes landing" > </a>
+## Own Projects
 
 - Guitar Pedal Board
   <br/>
@@ -103,5 +101,6 @@ Visit my <a href="https://www.linkedin.com/in/julian-pinel/" target="_blank" rel
 
 <br />
 <br/>
+
 
 
